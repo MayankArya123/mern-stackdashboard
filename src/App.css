@@ -722,12 +722,19 @@ card-footer,
     100%{
       transform: rotate(180deg);
     }
-
 }
 
-.circle .right {
+.circle .right.third {
     z-index: 3;
-    transform: rotate(180deg);
+    transform: rotate(90deg);
+}
+.circle .right.second {
+    z-index: 3;
+    transform: rotate(0deg);
+}
+.circle .right.first {
+    z-index: 3;
+    transform: rotate(120deg);
 }
 
 

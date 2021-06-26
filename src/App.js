@@ -104,7 +104,7 @@ function App() {
                                                   <div class="bar left">
                                                      <div class="progress">  </div>
                                                   </div>
-                                                  <div class="bar right">
+                                                  <div class="bar right first">
                                                      <div class="progress">  </div>
                                                   </div>
                                                 </div>
@@ -126,12 +126,12 @@ function App() {
                              
                                              <div class="circular">
                                              <div class="inner"> </div>
-                                             <p class="numb">80%</p>
+                                             <p class="numb">50%</p>
                                              <div class="circle">   
                                               <div class="bar left">
                                                  <div class="progress">  </div>
                                               </div>
-                                              <div class="bar right">
+                                              <div class="bar right second">
                                                  <div class="progress">  </div>
                                               </div>
                                             </div>
@@ -155,12 +155,12 @@ function App() {
                                  
                                                  <div class="circular">
                                                  <div class="inner"> </div>
-                                                 <p class="numb">80%</p>
+                                                 <p class="numb">75%</p>
                                                  <div class="circle">   
                                                   <div class="bar left">
                                                      <div class="progress">  </div>
                                                   </div>
-                                                  <div class="bar right">
+                                                  <div class="bar right third">
                                                      <div class="progress">  </div>
                                                   </div>
                                                 </div>
